@@ -2,6 +2,7 @@
 
 ## Paper
 
+* This paper was published to TACL: https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.66/134853
 * https://arxiv.org/pdf/2504.18474
 
 ## Inference
